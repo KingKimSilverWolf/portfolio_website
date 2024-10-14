@@ -107,31 +107,31 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Kim Magidhi is a talented developer with a keen eye for detail. He is a great team player and always delivers on time. I highly recommend him for any project.",
+      name: "Michael Johnson",
+      title: "Director of Skyview",
+    },
+    {
+      quote:
+        "Kim Magidhi is a talented developer with a keen eye for detail. He is a great team player and always delivers on time. I highly recommend him for any project.",
+      name: "Michael Johnson",
+      title: "Manager at Wyngaardt",
+    },
+    {
+      quote:
+        "Kim Magidhi is a talented developer with a keen eye for detail. He is a great team player and always delivers on time. I highly recommend him for any project.",
+      name: "Michael Johnson",
+      title: "Director Finance",
+    },
+    {
+      quote:
+        "Kim Magidhi is a talented developer with a keen eye for detail. He is a great team player and always delivers on time. I highly recommend him for any project.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Kim Magidhi is a talented developer with a keen eye for detail. He is a great team player and always delivers on time. I highly recommend him for any project.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },

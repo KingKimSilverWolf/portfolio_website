@@ -29,7 +29,7 @@ const Hero = () => {
                     Hi, my name is Kim Magidhi an Aspiring Software Engineer 👨🏽‍💻
                 </p>
 
-                <a href="#about">
+                <a href="#projects">
                   <MagicButton 
                     title="Show my projects"
                     icon ={<FaLocationArrow />}
