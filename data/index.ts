@@ -72,11 +72,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
+      title: "AI Article Summarizer",
+      des: "Summarize any article or blog post into a few key points and keep all your reading in one place.",
+      img: "/Sumz.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://preeminent-profiterole-dbdd80.netlify.app/",
     },
     {
       id: 2,
